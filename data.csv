@@ -1,0 +1,46 @@
+password,category
+Mulberry,fruit
+cranberry,fruit
+raspberry,fruit
+strawberry,fruit
+cherry,fruit
+plum,fruit
+black currant,fruit
+blackberry,fruit
+peach,fruit
+blueberry,fruit
+lemon,fruit
+lime,fruit
+peach,fruit
+apple,fruit
+red,colour
+rose,colour
+white,colour
+orange,colour
+purple,colour
+tingling,taste
+raisin,taste
+mint,taste
+dry,taste
+oily,taste
+bitter,taste
+juicy,taste
+citrus,taste
+sour,taste
+honey,taste
+hard,intensity
+mild,intensity
+medium,intensity
+thick,intensity
+crisp,intensity
+viscous,intensity
+smoky,aroma
+caramel,aroma
+coffee,aroma
+cinnamon,aroma
+ginger,aroma
+clove,aroma
+long lasting taste,anonymous
+filtered,anonymous
+low alcohol,anonymous
+high alcohol,anonymous
